@@ -31,9 +31,12 @@ Valor Monetário (M): Soma do TotalPrice de cada cliente.
 #### Qual o produto mais consumido por país?
 #### Qual o produto mais comprado por segmento?
 
+# SEGMENTAÇÃO RFM
+
+
 # INSIGTHS DA ANALISE
 
-#### Recomendação por segmento
+#### Análise por segmento
 
 1. Campeões: Clientes que estão acostumados a comprar com mais frequência em um curto espaço de tempo com um bom ticket médio - Recompensa e Exclusividade: Enviar ofertas exclusivas, acesso antecipado a novos produtos (acesso VIP) ou descontos de alto valor. Aproveite o Engajamento: Peça por avaliações, depoimentos ou que sejam embaixadores da marca. Eles têm alta probabilidade de responder positivamente.
 
