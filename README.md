@@ -22,6 +22,12 @@ Frequência (F): Total de transações únicas de cada cliente.
 Valor Monetário (M): Soma do TotalPrice de cada cliente.
 #### Segmentar a Base de Clientes: Utilizar a metodologia RFM (Recência, Frequência, Valor Monetário) para classificar os clientes em grupos estratégicos (por exemplo, "Clientes Leais", "Clientes em Risco", "Novos Clientes").
 
+# FERRAMENTA UTILIZADAS:
+#### Python - Para tratamento, limpeza dos dados e criação de novas colunas 
+#### Google Sheets - Para salvar os dados tratados e fazer as análises
+#### Looker Studio - Para criar as visualizações gráficas
+
+
 # HIPOTESES/PERGUNTAS ANALISADAS
 
 #### Qual segmento possui mais clientes?
