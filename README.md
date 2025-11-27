@@ -1,4 +1,4 @@
-# Otimização da Retenção de Clientes
+# Analise RFM para Otimização de Marketing
 
 # PROBLEMA DE NEGOCIO
 
