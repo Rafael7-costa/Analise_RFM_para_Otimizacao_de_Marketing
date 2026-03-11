@@ -30,11 +30,11 @@ A segmentação foi construída com base em regras de negócio aplicadas sobre a
 
 # HIPOTESES/PERGUNTAS ANALISADAS
 
-#### Qual segmento possui mais clientes?
-#### O que diferencia comportamentalmente um Cliente Campeão dos demais segmentos?
-#### Qual País tem mais potencial de monetização?
-#### Qual país tem mais Clientes Campeões?
-#### Quais produtos são mais consumidos por país e por segmento?
+* Qual segmento possui mais clientes?
+* O que diferencia comportamentalmente um Cliente Campeão dos demais segmentos?
+* Qual País tem mais potencial de monetização?
+* Qual país tem mais Clientes Campeões?
+* Quais produtos são mais consumidos por país e por segmento?
 
 # SEGMENTAÇÃO RFM
 ### A base está invertida — clientes perdidos dominam, campeões são minoria
